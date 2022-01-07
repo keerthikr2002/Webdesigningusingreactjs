@@ -1,4 +1,25 @@
 {
-  "name": "surya",
-  "college": "PBR"
+  "cards": [
+    {
+      "img": "./images/flower.jpg",
+      "name": "Samsung",
+      "price": "12k",
+      "model": "J2",
+      "offer": "10k"
+    },
+    {
+      "img": "./images/rose.jpg",
+      "name": "Iphone",
+      "price": "35kk",
+      "model": "J2",
+      "offer": "25k"
+    },
+    {
+      "img": "./images/flower.jpg",
+      "name": "Nokia",
+      "price": "30k",
+      "model": "J2",
+      "offer": "25k"
+    }
+  ]
 }
